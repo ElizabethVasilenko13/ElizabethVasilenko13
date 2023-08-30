@@ -3,12 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :woman_technologist: About Me :
-Creative and enthusiast trainee frontend 
-developer, seeking an entry-level position with 
-company to use my skills in coding. I easily 
-communicate with people and quickly grasp 
-information
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
