@@ -36,7 +36,7 @@
   <a href="https://www.facebook.com/profile.php?id=100043877891861">
     <img src="https://img.shields.io/badge/FaceBook-0A81ED?style=for-the-badge&logo=facebook&logoColor=white" alt="FaceBook Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/elizabeth-vasilenko-9313a2211/">
+  <a href="https://www.linkedin.com/in/elizabeth-vasilenko/">
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
 </div>
